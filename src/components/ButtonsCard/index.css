@@ -1,0 +1,18 @@
+.button {
+  background-color: #ffffff;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  border-radius: 10px;
+  padding: 4px;
+}
+.list {
+  list-style-type: none;
+  margin: 10px;
+}
+.actButton {
+  background-color: #db1c48;
+  color: #ffffff;
+  border: 1px solid #db1c48;
+  border-radius: 10px;
+  padding: 4px;
+}

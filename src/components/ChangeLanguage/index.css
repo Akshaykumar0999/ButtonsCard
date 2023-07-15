@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+}
+.ul-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+.image {
+  height: 200px;
+  width: 200px;
+}
